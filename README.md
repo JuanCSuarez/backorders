@@ -8,7 +8,19 @@ This project was developed as a real-world internal tool to improve efficiency i
 Configuration values are set for a development environment and do not reflect any real internal systems.
 
 ## Screenshots
-(Add screenshots of the application here)
+## Screenshots
+
+### Home Screen
+![Main Screen](screenshots/home.png)
+
+### Internal Tools Links
+![Search](screenshots/scr_links.png)
+
+### Sourcing notes translator
+![Results](screenshots/scr_sourcing.png)
+
+### Quick tracking
+![Results](screenshots/scr_tracking.png)
 
 ## Business Impact
 - Improved team effectiveness by 30%  
